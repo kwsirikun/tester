@@ -1,1 +1,1 @@
-echo "# tester"
+echo "# tester น๊ะจ๊ะ"
